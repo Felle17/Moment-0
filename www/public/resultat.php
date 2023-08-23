@@ -23,7 +23,7 @@
         if($ans5 == 640)
             $þoints++;
      	
-     	echo("<p>Du fick " . $points . " av 2 möjliga</p>");
+     	echo("<p>Du fick " . $points . " av 5 möjliga</p>");
 ?>
 </body>
 </html>
