@@ -12,17 +12,17 @@
        <label>3 x 5 = </label>
        <input type="text" name="q2">
        <br>
-       <label> 8*3 = </label>
+       <label> 8 * 3 = </label>
        <input type="text" name="q3">
        <br>
        <label> 164 / 4 = </label>
        <input type="text" name="q4">
        <br>
-        <label>128 * 5 = </label>
+        <label> 128 * 5 = </label>
         <input type="text" name="q4">
         <br>
         <label> 5 - 4 = </label>
-        <input type="text"> name="q5">
+        <input type="text" name="q5">
        <input type="submit" value="Rätta">
    </fieldset>
 </form>
