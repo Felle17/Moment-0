@@ -27,7 +27,7 @@
         if($ans6 == 1)
             $points++;
      	
-     	echo("<p>Du fick " . $points . " av 6 möjliga " . $name . "! Bra jobbat! </p>");
+     	echo("<h2>Du fick " . $points . " av 6 möjliga " . $name . "! Bra jobbat! </h2>");
 ?>
 </body>
-</html>
+</html
