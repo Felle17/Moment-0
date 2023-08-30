@@ -2,7 +2,7 @@
 <html>
 <head lang="sv"></head>
 <body>
-<h1>Matematik-test</h1>
+ <?php include('inc/header.php');?>
 <form action="resultat.php" method="post">
     <fieldset>
         <legend>Namn</legend>
@@ -33,4 +33,5 @@
    </fieldset>
 </form>
 </body>
+<?php include('inc/footer.php');?>
 </html>
