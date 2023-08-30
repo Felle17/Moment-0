@@ -11,6 +11,7 @@
         $ans4 = $_POST['q4'];
         $ans5 = $_POST['q5'];
         $ans6 = $_POST['q6'];
+        $name = $_POST['n1'];
      	$points = 0;
      	
      	if($ans1 == 9)
@@ -26,7 +27,7 @@
         if($ans6 == 1)
             $points++;
      	
-     	echo("<p>Du fick " . $points . " av 6 möjliga</p>");
+     	echo("<p>Du fick " . $points . " av 6 möjliga " . $name . " Bra jobbat! </p>");
 ?>
 </body>
 </html>
