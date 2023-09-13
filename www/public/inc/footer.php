@@ -1,1 +1,1 @@
-<h1>Du är nu klar med testet. Lycka till</h1>
+<h1>Lycka till</h1>
